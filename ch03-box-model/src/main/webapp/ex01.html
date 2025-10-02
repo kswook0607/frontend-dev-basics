@@ -16,44 +16,6 @@ body {
 	background-color: #FFC;
 }
 </style>
-<script>
-window.onload = function(){
-	var elDiv = document.getElementById("my-box");
-	elDiv.onclick = function() {
-		marginTop = parseInt(elDiv.style.marginTop);
-		console.log(narginTop);
-	
-    	intervalId = setInterval(function(){
-	
-			if(marginTop <= -80){
-				clearInterval(intervalId);
-				return;
-			}
-			
-			marginTop = marginTop - 10;
-			elDiv.style.marginTop = marginTop + "px";
-		 }, 10);
-	}
-
-}
-
-/*
-count = 0;
-
-intervalId = setInterval(function(){
-	if(count >= 10{
-		clearInterval(intervalId);
-		return;
-	}
-	
-	console.log("count" + count);
-	count++;
-}, 500);
-	
-console.log(intervalId);
-*/
-
-</script>
 </head>
 
 <body>

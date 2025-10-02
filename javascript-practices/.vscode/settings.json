@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editor.decorations.colors": true,
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Light",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.view.showQuietly": {
+        "workbench.panel.output": false
+    },
+    "workbench.colorCustomizations": {},
+    "workbench.preferredLightColorTheme": "Default High Contrast Light"
+}
