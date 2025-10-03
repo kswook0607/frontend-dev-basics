@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorTheme": "Default Dark Modern",
     "workbench.editor.decorations.colors": true,
     "workbench.preferredDarkColorTheme": "Visual Studio Dark",
     "workbench.preferredHighContrastColorTheme": "Visual Studio Light",
@@ -8,5 +8,6 @@
         "workbench.panel.output": false
     },
     "workbench.colorCustomizations": {},
-    "workbench.preferredLightColorTheme": "Default High Contrast Light"
+    "workbench.preferredLightColorTheme": "Default High Contrast Light",
+    "editor.inlineSuggest.edits.showCollapsed": true
 }
